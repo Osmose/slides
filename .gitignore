@@ -1,1 +1,4 @@
 .DS_Store
+python.exe.stackdump
+sh.exe.stackdump
+venv
